@@ -18,10 +18,17 @@ TBD
 
 ## TLDRs
 
-A TLDR is an entry explaining something. Every TLDR may have three levels:
+A TLDR is a markdown formatted entry explaining something. Every TLDR may have:
 
-* Tweet (up to 280 code points)
-* More (up to 1120 characters)
-* Wikipedia (just a link)
+* Levels
+    * Tweet (up to 280 code points)
+    * More (up to 1120 characters)
+    * Wikipedia (just a link)
 
-TLDR are markdown formatted. Following the wiki format, users can edit TLDRs. Every edit is stored as a new version that can be viewed, blamed, etc.
+* References
+
+* Revisions
+    * Different editions of this TLDR that can be viewed, blamed,etc
+
+* Category
+    * Logical organization to allow exploration. Categories can have parent categories
