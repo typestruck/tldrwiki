@@ -32,3 +32,12 @@ A TLDR is a markdown formatted entry explaining something. Every TLDR may have:
 
 * Category
     * Logical organization to allow exploration. Categories can have parent categories
+
+* Translations
+    * List of languages this TLDR is available in
+
+* Related TLDRs
+    * A "see also" list
+
+* Desambiguation
+   * Reference to TLDRs that share the same name
