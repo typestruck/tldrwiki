@@ -4,7 +4,7 @@ Author: @easafe
 
 ## Overview
 
-Wiki to explain things in a succint manner.
+Wiki to explain things in a succinct manner.
 
 ## Table of contents
 
@@ -39,5 +39,5 @@ A TLDR is a markdown formatted entry explaining something. Every TLDR may have:
 * Related TLDRs
     * A "see also" list
 
-* Desambiguation
+* Disambiguation
    * Reference to TLDRs that share the same name

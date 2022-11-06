@@ -1,2 +1,1 @@
 # tldrwiki
-TL;DR; Wiki
